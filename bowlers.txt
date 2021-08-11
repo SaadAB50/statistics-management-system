@@ -1,0 +1,33 @@
+Mohammad_Amir P 012 28 120 140 24.56 7.13 0
+Wahab_Riaz G 014 35 132 185 18.45 8.03 0
+Shaheen_Afridi D 016 20 80 115 16.55 6.81 0
+Hasan_Ali P 007 26 95 103 24.56 7.49 0
+Haris_Rauf D 023 24 54 43 35.78 8.57 0
+Dale_Steyn G 045 35 169 185 24.66 7.93 0
+Usman_Qadir G 021 27 46 52 25.73 8.15 0
+Arshad_Iqbal S 013 22 32 34 34.90 8.32 0
+Imran_Tahir G 005 36 204 235 25.45 6.92 0
+Qais_Ahmed G 067 32 102 96 43.21 8.74 0
+Mohd_Hasnain S 001 21 43 50 40.01 6.50 0
+Adam_Zampa G 002 29 100 160 32.65 5.54 0
+Sean_Abbott S 003 29 20 20 54.50 7.26 0
+Junaid_Khan P 004 31 124 192 31.73 2.93 0
+Usman_Shinwari G 006 27 100 120 54.00 4.21 0
+Zahid_Mehmood S 008 33 49 62 40.02 7.20 0
+Duanne_Oliver S 018 29 34 40 50.02 8.20 0
+Rumman_Raees G 009 30 150 180 40.04 6.19 0
+Sunil_Narine G 010 27 120 160 41.83 6.23 0
+Shane_Watson P 011 40 220 350 32.65 5.92 0
+Mohammad_Nawaz G 019 28 126 172 39.99 5.98 0
+Shadab_Khan P 015 22 100 172 32.21 4.23 0
+Yasir_Shah G 020 27 116 125 44.12 5.84 0
+Chris_Jordan D 022 31 139 166 45.02 5.13 0
+Zulfiqar_babar G 021 23 129 156 40.02 5.26 0
+Shakib_Alhasan D 024 24 139 183 43.02 5.84 0
+Thisara_Perera P 029 25 129 156 40.02 4.24 0
+Anwer_Ali G 035 32 159 180 42.02 6.24 0
+Tymal_Mills G 017 25 129 156 40.02 5.44 0
+
+
+
+
